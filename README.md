@@ -1,9 +1,6 @@
 # PHP Developer Test
 
 Clone this repository and complete the exercises on the test_* files.
-Once you finish all the exercises, if you have a GitHub account,
-create a new branch with your name and push the branch to the repository.
-Otherwise, zip the files and send them to us.
 
 You are allowed to google for documentation, but you are not allowed to copy and paste code or use ChatGPT.
 
@@ -23,7 +20,7 @@ Using the API https://catfact.ninja/breeds and guzzle, print a sorted list of ca
 
 ## test_4.html
 
-Follow the instruction on the file.
+Follow the instructions on the file.
 
 ## test_5.sql
 
